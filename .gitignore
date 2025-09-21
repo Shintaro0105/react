@@ -1,0 +1,27 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Logs
+logs
+*.log
+
+# Build output
+dist/
+dist-ssr/
+.vite/
+
+# Editor directories and files
+.vscode/
+.idea/
+.DS_Store
+*.swp
+
+# DevContainer
+# .devcontainer/*.local
